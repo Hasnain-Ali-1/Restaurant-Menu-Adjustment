@@ -1,0 +1,72 @@
+<menu>
+  <item>
+    <name>Pizza Margherita</name>
+    <price>10.99</price>
+    <description>Classic italian pizza with tomatoes, mozzarella, and basil.</description>
+    <preparation_time>15 minutes</preparation_time>
+    <food_costs>3.50</food_costs>
+  </item>
+  <item>
+    <name>Spaghetti Carbonara</name>
+    <price>12.99</price>
+    <description>Traditional italian pasta with bacon, eggs, parmesan cheese, and black pepper.</description>
+    <preparation_time>20 minutes</preparation_time>
+    <food_costs>4.25</food_costs>
+  </item>
+  <item>
+    <name>Lasagna Bolognese</name>
+    <price>14.99</price>
+    <description>Layers of pasta, bolognese sauce, and cheese, baked to perfection.</description>
+    <preparation_time>30 minutes</preparation_time>
+    <food_costs>5.75</food_costs>
+  </item>
+  <item>
+    <name>Caprese Salad</name>
+    <price>8.99</price>
+    <description>Refreshing salad with tomatoes, fresh mozzarella, basil, olive oil, and balsamic glaze.</description>
+    <preparation_time>10 minutes</preparation_time>
+    <food_costs>2.50</food_costs>
+  </item>
+  <item>
+    <name>Risotto ai Funghi</name>
+    <price>13.99</price>
+    <description>Creamy italian rice dish with mixed mushrooms, parmesan cheese, and white wine.</description>
+    <preparation_time>25 minutes</preparation_time>
+    <food_costs>5.00</food_costs>
+  </item>
+  <item>
+    <name>Chicken Parmigiana</name>
+    <price>16.99</price>
+    <description>Breaded chicken breast topped with marinara sauce, mozzarella, and parmesan cheese.</description>
+    <preparation_time>35 minutes</preparation_time>
+    <food_costs>6.25</food_costs>
+  </item>
+  <item>
+    <name>Tiramisu</name>
+    <price>7.99</price>
+    <description>Classic italian dessert with layers of ladyfingers, coffee, mascarpone cream, and cocoa.</description>
+    <preparation_time>15 minutes</preparation_time>
+    <food_costs>2.75</food_costs>
+  </item>
+  <item>
+    <name>Cannoli</name>
+    <price>5.99</price>
+    <description>Crispy pastry tubes filled with sweet ricotta cream and chocolate chips.</description>
+    <preparation_time>10 minutes</preparation_time>
+    <food_costs>2.00</food_costs>
+  </item>
+  <item>
+    <name>Gelato</name>
+    <price>6.99</price>
+    <description>italian-style ice cream available in various flavors.</description>
+    <preparation_time>5 minutes</preparation_time>
+    <food_costs>1.75</food_costs>
+  </item>
+  <item>
+    <name>Bruschetta</name>
+    <price>7.99</price>
+    <description>Toasted bread topped with fresh tomatoes, garlic, basil, and olive oil.</description>
+    <preparation_time>12 minutes</preparation_time>
+    <food_costs>3.00</food_costs>
+  </item>
+</menu>
